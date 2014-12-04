@@ -1,3 +1,5 @@
+
+Make a change
 # Contact Manager
 
 We're going to work on changing a Sinatra application from using hard coded
